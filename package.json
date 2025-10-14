@@ -1,0 +1,11 @@
+{
+  "name": "tradingview-websocket-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "uWebSockets.js": "^20.44.0"
+  }
+}
